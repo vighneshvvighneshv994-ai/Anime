@@ -1,0 +1,6 @@
+{
+  "name": "NekoStream",
+  "description": "Modern dark anime streaming app with AI recommendations, continue watching, watch history, offline downloads and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
